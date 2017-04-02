@@ -1,0 +1,9 @@
+What new skills have you learned?
+	I have learned how to use HTML tag to style HTML text.
+What has been easy?
+	It is easy that I only need to add tag next to the text to style it.
+
+What has been difficult?
+	it is difficult to make complex style using only in-HTML tags.
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+        Yes. I have referred to reliable resources(MDN and W3schools)
